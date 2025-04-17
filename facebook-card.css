@@ -1,0 +1,77 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding-top: 60px ;
+  padding-bottom: 540px;
+  background-color: #f2f4f7;
+  color: #1c1e21;
+    letter-spacing: -2px;
+    color: #0866ff;
+    text-align: center;
+    font-size: 60px;
+}
+.card1{
+    width: 530px;
+    height: 420px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+    transform: translate(140%, -125%);
+    box-shadow: rgb(221, 219, 219) 10px 10px 20px;
+}
+.login{
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 33px;
+    font-size: 25px;
+}
+.container{
+    width: 85%;
+    height: 9%;
+    font-size: 20px;
+    padding: 15px 15px;
+    margin-bottom: 15px;
+    border-radius: 7px;
+    border-color: rgb(240, 239, 239);
+    color: rgb(8, 8, 8);
+    border-color: rgb(187, 187, 187);
+}
+.container1{
+    width: 85%;
+    height: 9%;
+    font-size: 20px;
+    padding: 15px 15px;
+    margin-bottom: 15px;
+    border-radius: 7px;
+    border-color: rgb(240, 239, 239);
+}
+button{
+    background-color: #0866ff;
+    color:white;
+    border: transparent;
+    border-radius: 9px;
+    width: 90%;
+    height: 15%;
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+a{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 50;
+    color: #0866ff;
+    text-decoration: none;
+}
+span{
+    color: grey;
+}
+button:hover{
+    cursor:pointer;
+    background-color: #075fee;
+}
+span:hover{
+    text-decoration: underline;
+}
+input::placeholder{
+    color:rgb(145, 143, 143);
+}
